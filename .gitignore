@@ -1,0 +1,9 @@
+   # Operating system files
+   .DS_Store
+   Thumbs.db
+   desktop.ini
+
+   # R temporary files
+   .Rhistory
+   .RData
+   .Rproj.user/
