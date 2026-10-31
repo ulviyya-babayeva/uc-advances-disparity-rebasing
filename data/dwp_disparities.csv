@@ -1,0 +1,25 @@
+year,characteristic,group,referral_rl,outcome_rl,source
+2025-26,age,16 to 24,1.24,1.06,DWP 2026 annex tables 1-2
+2025-26,age,25 to 34,1.00,1.00,DWP 2026 annex tables 1-2
+2025-26,age,35 to 44,1.65,0.93,DWP 2026 annex tables 1-2
+2025-26,age,45 to 54,1.71,0.89,DWP 2026 annex tables 1-2
+2025-26,age,55 to 65,1.36,0.58,DWP 2026 annex tables 1-2
+2025-26,age,66 and over,27.24,0.36,DWP 2026 annex tables 1-2
+2025-26,nationality,UK national,1.00,1.00,DWP 2026 annex tables 3-4
+2025-26,nationality,Non-UK national,3.35,1.04,DWP 2026 annex tables 3-4
+2025-26,couple,Single claimant contract,1.00,1.00,DWP 2026 annex tables 5-6
+2025-26,couple,Couple contract,0.98,0.36,DWP 2026 annex tables 5-6
+2025-26,illness,No reported illness,1.00,1.00,DWP 2026 annex tables 7-8
+2025-26,illness,Reported illness,0.32,0.73,DWP 2026 annex tables 7-8
+2024-25,age,16 to 24,1.67,1.21,DWP 2025 annex tables 1-2
+2024-25,age,25 to 34,1.13,1.22,DWP 2025 annex tables 1-2
+2024-25,age,35 to 44,1.00,1.00,DWP 2025 annex tables 1-2
+2024-25,age,45 to 54,1.35,0.86,DWP 2025 annex tables 1-2
+2024-25,age,55 to 65,2.80,0.58,DWP 2025 annex tables 1-2
+2024-25,age,66 and over,49.24,0.23,DWP 2025 annex tables 1-2
+2024-25,nationality,UK national,1.00,1.00,DWP 2025 annex tables 3-4
+2024-25,nationality,Non-UK national,2.27,0.97,DWP 2025 annex tables 3-4
+2024-25,couple,Single claimant contract,1.00,1.00,DWP 2025 annex tables 5-6
+2024-25,couple,Couple contract,0.83,0.24,DWP 2025 annex tables 5-6
+2024-25,illness,No reported illness,1.00,1.00,DWP 2025 annex tables 7-8
+2024-25,illness,Reported illness,0.37,0.55,DWP 2025 annex tables 7-8
