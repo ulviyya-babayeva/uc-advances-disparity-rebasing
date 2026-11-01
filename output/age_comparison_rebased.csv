@@ -1,0 +1,7 @@
+"group","referral_rl_2425","outcome_rl_2425","referral_rl_2526","outcome_rl_2526","referral_class_2425","referral_class_2526","class_changed"
+"16 to 24",1.67,1.21,0.75,1.14,"notably higher","notably lower",TRUE
+"25 to 34",1.13,1.22,0.61,1.08,"not notable","notably lower",TRUE
+"35 to 44",1,1,1,1,"not notable","not notable",FALSE
+"45 to 54",1.35,0.86,1.04,0.96,"notably higher","not notable",TRUE
+"55 to 65",2.8,0.58,0.82,0.62,"notably higher","not notable",TRUE
+"66 and over",49.24,0.23,16.51,0.39,"notably higher","notably higher",FALSE
