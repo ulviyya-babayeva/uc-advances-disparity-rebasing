@@ -38,9 +38,6 @@ Once both years use the same comparator, four of the five age groups
 change classification. 16 to 24 even reverses, from notably higher to
 notably lower.
 
-[WRITE ONE OR TWO SENTENCES HERE: what surprised you, or what this means
-for how DWP reports its results.]
-
 ## Limits
 
 I can only work with what DWP publishes. The figures are rounded to two
